@@ -1,0 +1,157 @@
+AMC PHOTO DUPLICATES
+
+Versión 1.1 junio 2026
+
+Autor:
+Arturo M. Castillo Cabezas
+Punta Arenas, CHILE
+
+Desarrollado con colaboración de ChatGPT.
+
+────────────────────────────────────────
+
+IMPORTANTE
+
+ANTES DE PROCEDER SE RECOMIENDA RESPALDAR SUS ARCHIVOS PARA EVITAR PÉRDIDAS INDESEADAS.
+
+Por precaución, esta aplicación elimina archivos enviándolos a la Papelera de Reciclaje de Windows, manteniendo esa opción de recuperación. Sin embargo, el usuario es el único responsable de revisar cuidadosamente los archivos seleccionados antes de proceder a su eliminación.
+
+Se recomienda verificar siempre los archivos marcados y mantener respaldos actualizados de la información importante.
+
+────────────────────────────────────────
+
+LICENCIA DE USO GRATUITO
+
+AMC Photo Duplicates se distribuye gratuitamente para uso personal y privado.
+
+Se autoriza la instalación y utilización del programa sin costo por personas naturales y organizaciones para fines legítimos.
+
+La titularidad de todos los derechos de propiedad intelectual sobre el software pertenece a su autor.
+
+Salvo autorización expresa y por escrito del autor, no se permite:
+
+• Modificar total o parcialmente el software.
+• Descompilar, desensamblar o realizar ingeniería inversa.
+• Crear obras derivadas basadas en el software.
+• Eliminar, alterar u ocultar referencias de autoría.
+• Comercializar, vender, sublicenciar o explotar comercialmente el software.
+• Redistribuir versiones modificadas del programa.
+• SÍ se permite compartir y redistribuir gratuitamente el instalador original e íntegro del programa, siempre que no sea modificado y se conserve la presente documentación.
+
+La distribución gratuita del instalador original podrá realizarse únicamente conservando íntegramente la autoría, documentación y advertencias contenidas en el software.
+
+────────────────────────────────────────
+
+LIMITACIÓN DE RESPONSABILIDAD
+
+Este software se proporciona "tal cual", sin garantías de ningún tipo, expresas o implícitas.
+
+El autor no garantiza que el software esté libre de errores ni que funcione de manera ininterrumpida en todos los equipos, sistemas operativos o configuraciones.
+
+En ningún caso el autor será responsable por:
+
+• Pérdida de datos.
+• Eliminación accidental de archivos.
+• Daños directos o indirectos.
+• Lucro cesante.
+• Interrupciones de actividad.
+• Cualquier otro perjuicio derivado del uso o imposibilidad de uso del software.
+
+El usuario asume íntegramente los riesgos asociados a la utilización del programa.
+
+────────────────────────────────────────
+
+FINALIDAD DEL SOFTWARE
+
+AMC Photo Duplicates ha sido desarrollado como una herramienta destinada a facilitar la detección, revisión y eliminación de imágenes duplicadas almacenadas en dispositivos informáticos.
+
+La decisión final respecto de qué archivos conservar o eliminar corresponde exclusivamente al usuario.
+
+────────────────────────────────────────
+
+Copyright © 2026
+Arturo M. Castillo Cabezas
+
+Todos los derechos reservados.
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+AMC Photo Duplicates
+
+Version 1.1 June 2026
+
+Author:
+Arturo M. Castillo Cabezas
+Punta Arenas, Chile
+
+Developed in collaboration with ChatGPT.
+
+────────────────────────────────────────
+
+
+
+IMPORTANT
+
+BEFORE PROCEEDING, IT IS RECOMMENDED TO BACK UP YOUR FILES TO AVOID UNWANTED DATA LOSS.
+
+As a precaution, this application deletes files by sending them to the Windows Recycle Bin, while still allowing for recovery. However, the user is solely responsible for carefully reviewing the selected files before proceeding with their deletion.
+
+It is recommended to always verify the marked files and maintain up-to-date backups of important information.
+
+─────────────────────────────────────────
+
+FREE LICENSE AGREEMENT
+
+AMC Photo Duplicates is distributed free of charge for personal and private use.
+
+Installation and use of the program free of charge are authorized for individuals and organizations for legitimate purposes.
+
+Ownership of all intellectual property rights to the software belongs to its author.
+
+Without the author's express written authorization, the following are prohibited:
+
+• Modifying the software in whole or in part.
+• Decompiling, disassembling, or reverse engineering the software.
+• Creating derivative works based on the software.
+• Removing, altering, or concealing authorship references.
+• Commercializing, selling, sublicensing, or otherwise exploiting the software.
+• Redistributing modified versions of the program.
+• Allowed: The original unmodified installer may be freely shared and redistributed, provided that this documentation and all authorship notices are preserved.
+
+Free distribution of the original installer is permitted only if all authorship, documentation, and warnings contained in the software are fully preserved.
+
+────────────────────────────────────────
+
+LIMITATION OF LIABILITY
+
+This software is provided "as is," without warranties of any kind, express or implied.
+The author does not warrant that the software is error-free or that it will function uninterrupted on all computers, operating systems, or configurations.
+Under no circumstances will the author be liable for:
+
+• Data loss.
+• Accidental deletion of files.
+• Direct or indirect damages.
+• Loss of profits.
+• Business interruptions.
+• Any other damages arising from the use of, or inability to use, the software.
+
+The user assumes all risks associated with using the program.
+
+────────────────────────────────────────
+
+PURPOSE OF THE SOFTWARE
+
+AMC Photo Duplicates has been developed as a tool designed to facilitate the detection, review, and removal of duplicate images stored on computer devices.
+
+The final decision regarding which files to keep or delete rests solely with the user.
+
+────────────────────────────────────────
+
+Copyright © 2026
+Arturo M. Castillo Cabezas
+
+All rights reserved.
